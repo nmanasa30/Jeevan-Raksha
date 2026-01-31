@@ -6,9 +6,9 @@ This application acts as a digital life-saving companion, enabling users to quic
 
  **Problem Statement**
 
-1. During emergencies, people often face:
+1.During emergencies, people often face:
 
-2. Delay in contacting help
+2.Delay in contacting help
 
 3.Difficulty finding the nearest hospital
 
