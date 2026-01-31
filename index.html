@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JeevanRaksha - Emergency Help</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <br>
+  <br>
+  <br>
+  <img src="logo.jpeg" width="120"><br>
+  <br>
+  <br>
+
+
+  <h1>JeevanRaksha</h1>
+  <p>Protecting Every Life</p>
+
+  <h2>Emergency Assistance</h2>
+
+  <p>Your safety is our priority. Use the buttons above to get immediate help in emergencies.</p>
+<div class="button-group">
+  <button class="btn sos-btn" onclick="activateSOS()">SOS</button>
+  <br>
+  <br>
+
+  <button class="btn map-btn" onclick="openMap()">View Map</button>
+  <button class="btn hospital-btn" onclick="findHospitals()">Find Hospitals</button>
+  <button class="btn aid-btn" onclick="firstAidAlert()">First Aid</button>
+  <button class="btn family-btn" onclick="shareLocation()">Alert Family</button>
+  <button class="btn traffic-btn" onclick="openTraffic()">Traffic</button>
+  <button class="btn chat-btn" onclick="toggleChat()">Chat Help</button>
+</div>
+<div id="chatBox" class="chat-box">
+  <p id="botMsg">Type CPR / Bleeding / Choking</p>
+  <input type="text" id="userText" placeholder="Ask help...">
+  <button onclick="chat()">Send</button>
+</div>
+
+  <script src="script.js"></script>
+
+  
+  <footer class="footer">
+  <p>© 2026 JeevanRaksha • Protecting Every Life</p>
+</footer>
+
+  </body>
+</html>
