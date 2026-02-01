@@ -1,4 +1,4 @@
-**#JeevanRaksha – Smart Emergency Assistance Platform**
+**JeevanRaksha – Smart Emergency Assistance Platform**
 
 JeevanRaksha is a web-based emergency assistance platform designed to provide instant support during critical situations. The project focuses on reducing response time, improving location awareness, and guiding users with first-aid instructions to ensure faster and safer medical help.
 
