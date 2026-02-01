@@ -76,6 +76,18 @@ JeevanRaksha integrates location services, navigation tools, and medical guidanc
 
 5.Create a simple and accessible emergency dashboard
 
+**Live Demo Link**
+
+🔗 Live Demo: https://eloquent-selkie-37096e.netlify.app/
+
+**Add a How to Run Locally section**
+
+git clone ...
+cd backend
+npm install
+node server.js
+
+
 **Future Enhancements**
 
 1.AI-powered medical chatbot
