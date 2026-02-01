@@ -44,6 +44,8 @@ JeevanRaksha integrates location services, navigation tools, and medical guidanc
 
 **Tech Stack**
 
+**FrontEnd**
+
 1.HTML5 – Structure and content
 
 2.CSS3 – Styling, animations, responsive design
@@ -53,6 +55,14 @@ JeevanRaksha integrates location services, navigation tools, and medical guidanc
 4.Google Maps Integration – Navigation, traffic, and hospital search
 
 5.Geolocation API – Live user location detection
+
+**BackEnd**
+
+1.Node.js
+
+2.Express
+
+3.JSON
 
 **Objectives**
 
